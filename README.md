@@ -7,3 +7,5 @@ Certification projects:
 * Medical Data Visualizer
 * Page View Time Series Visualizer
 * Sea Level Predictor
+
+![Data Analysis with Python](https://github.com/IC-XC/Data-Analysis-with-Python-freeCodeCamp/assets/86513555/2bcf5b5e-27e8-49b7-a9cd-e9b208fb418b)
